@@ -1,0 +1,65 @@
+body{
+  margin: 0mm;
+}
+.qiche{
+  position: absolute;
+  top: 0px;
+}
+.bai{
+  position: absolute;
+  left: -23px;
+  top: 0px;
+}
+
+.arm{
+  position: absolute;
+  padding-left: 18px;
+  padding-top: 24px;
+  color: black;
+  font-family: initial;
+  width: 56px;
+}
+.one {
+  position: absolute;
+  border-bottom-color:rgb(111, 120, 124);
+  margin: 39px 1000px 0px 30px;
+  padding-top: 33px;
+  
+}
+.two {
+  position: absolute;
+  margin: 90px 1000px 0px 30px;
+  padding-top: 70px;
+}
+.three {
+  position: absolute;
+  margin: 130px 1000px 0px 30px;
+  padding-top: 107px;
+}
+.four {
+  position: absolute;
+  margin: 170px 1000px 0px 30px;
+  padding-top: 144px;
+}
+.five {
+  position: absolute;
+  margin: 210px 1000px 0px 30px;
+  padding-top: 181px;
+}
+.six {
+  position: absolute;
+  margin: 250px 1000px 0px 30px;
+  padding-top: 218px;
+}
+.alo{
+  position: absolute;
+  margin-left: 91px;
+  padding:35px 0px 0px 73px;
+  width: 130px;
+}
+.c-masthead__headline{
+  position: absolute;
+  color: white;
+  margin: 172px 0px 0px 160px;
+  height :100;
+}
