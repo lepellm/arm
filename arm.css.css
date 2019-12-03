@@ -63,4 +63,45 @@ body{
   margin: 172px 0px 0px 160px;
   height :100;
   font-size: 30px;
+  font-weight: 500;
+}
+.c-masthead__subtitle__title{
+  font-size: 60px;
+  font-weight: 800;
+}
+.IN{
+  position: relative;
+  top: -70px;
+}
+.WH{
+  position: relative;
+  top: -140px;
+}
+.c-masthead__hr{
+  position: absolute;
+  background-color: #ffc700 !important;
+  display: block;
+  height: 3px;
+  width: 900px;
+  top: 200px;
+
+}
+.c-masthead__description{
+  position: absolute;
+  top: 250px;
+  font-size: 20px;
+  font-weight: 200;
+}
+.c-masthead__cta{
+  border-color: #ffc700;
+  border-style: solid;
+  border-width: 3px;
+  color: #333e48;
+  padding: 10px 50px;
+  background-color: #ffc700;
+  border-radius: 40px;
+  font-weight: 100;
+  width: 101px;
+  font-size: 19px;
+  text-decoration: none;
 }
