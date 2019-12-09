@@ -171,6 +171,48 @@ body{
   width: 365px;
   margin: 343px 0px 0px 890px;
 }
+.processor1 a{
+  text-decoration: none;
+  color:#2db6e8;
+  margin-left: 400px;
+  font-size: 18px;
+}
+.processor2 {
+  position: relative;
+  top: -30px;
+  left: 610px;
+}
+.liebiao {
+  position: relative;
+  top: 1600px;
+  width: 1500px;
+  height: 200px;
+  background-color: #333e48;
+  margin-left:150px;
+}
+.liebiao ul li{
+  top: 1650px;
+  z-index: 2;
+  display:inline-block;
+  padding-right:40px;
+  line-height: 20px;
+  color: white;
+  margin-top:70px;
+  margin-left:60px;
+  font-size:18px;
+  font-weight:20px;
+}
+.liebiao ul .t2{
+  border-right:0.5px solid #ffffff;
+  height:20px;
+}
+.liebiao ul .t1 {
+  font-size: 20px;
+  font-weight: 200;
+}
+.liebiao ul .t2:hover{
+  color:#fff111;
+}
 .xiatu {
   position: absolute;
   left: 100px;
@@ -186,11 +228,185 @@ body{
   text-align: center;
   left: 400px;
 }
+.beijin2 {
+  position: absolute;
+  top: 700px;
+  width: 2000px;
+  height:10000px;
+  background-color: #333e48;
+}
+.shangyejie {
+  position: absolute;
+  left: calc(50% - 150px);
+  background-size: cover;
+  top: 700px;
+}
 .shiping {
   position: absolute;
   left: 200px;
   width: 1080px;
 }
-.shangyejie {
-  
+.shangyejiewengzi {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.25;
+  margin: 0 0 10px;
+  color: #ffffff;
+  position: absolute;
+  top: 2700px;
+  left: 300px;
+}
+.shangyejiewangzi2 {
+  font-size: 48px;
+  line-height: 1.25;
+  margin: 0 0 60px;
+  font-weight: 500;
+}
+.shangyejiewangzi3 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  margin-bottom: 30px;
+}
+.shangyejiechaolianjie {
+  text-decoration: none;
+  color: #2db6e8;
+  font-size: 22px;
+  font-weight: 400;
+}
+.zhongjian {
+  position: absolute;
+  top: 3400px;
+  left: 300px;
+}
+.MoreSolutions {
+  position: relative;
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: 700;
+}
+.datu5g {
+  position: absolute;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.tu5g {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.datuartificial-intelligence {
+  position: absolute;
+  top: 86px;
+  left: 164.5px;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.artificial-intelligence {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.datuautomotive {
+  position: absolute;
+  top: 86px;
+  left: 329.5px;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.automotive {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.datuinfrastructure {
+  position: absolute;
+  top: 86px;
+  left: 494px;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.infrastructure {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.datusmart-cities {
+  position: absolute;
+  top: 86px;
+  left: 659px;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.smart-cities {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.datuwearables {
+  position: absolute;
+  top: 86px;
+  left: 824px;
+  background-color: #ffffff;
+  width: 164px;
+  height: 155px;
+}
+.wearables {
+  width: 70px;
+  position: relative;
+  left: 47px;
+  top: 42.5px;
+}
+.xiada5g {
+  position: relative;
+  top: 155px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
+}
+.xiadaartificial-intelligence {
+  position: relative;
+  top: 74px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
+}
+.xiadaautomotive {
+  position: relative;
+  top: 74px;
+  left: 164.5px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
+}
+.xiadainfrastructure {
+  position: relative;
+  top: 155px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
+}
+.xiadasmart-cities {
+  position: relative;
+  top: 155px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
+}
+.xiadawearables {
+  position: relative;
+  top: 155px;
+  background-color: #007ea5;
+  width: 164px;
+  height: 65px;
 }
