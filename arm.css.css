@@ -86,7 +86,7 @@ body{
   top: 200px;
 
 }
-.c-masthead__description{
+.c-masthead__description{   
   position: absolute;
   top: 250px;
   font-size: 20px;
@@ -95,11 +95,10 @@ body{
 .c-masthead__cta{
   border-color: #ffc700;
   border-style: solid;
-  border-width: 3px;
+  border-width: 3 px;
   padding: 10px 50px;
   background-color: #ffc700;
   border-radius: 40px;
-
   width: 101px;
   font-size: 19px;
 }
@@ -107,4 +106,91 @@ body{
   color:#333e48;
   text-decoration: none;
   font-weight: 300;
+}
+.allbottom{
+  width: 960px;
+  position: absolute;
+  top: 800px;
+  
+}
+.products{
+  left: 300px;
+  font-size: 44px;
+  line-height: 1.25;
+  font-weight: 700;
+  position: relative;
+  text-align: center;
+}
+.from {
+  font-size: 14px;
+  font-weight: 400;
+}
+.xingpian {
+  height: 150px;
+  margin-left: 400px;
+}
+.Processor{
+  text-align:center;
+}
+.Technology1 {
+  text-align:center;
+  font-size: 28px;
+  font-weight: 300;
+  width: 365px;
+  margin-left: 310px;
+}
+.Armis {
+  text-align:center;
+  width: 365px;
+  line-height: 1.65;
+  margin-left: 290px;
+}
+.yun {
+  height: 150px;
+  position: absolute;
+  margin-left: 1000px;
+
+}
+.IoT {
+  position: absolute;
+  text-align:center;
+  width: 365px;
+  margin: 150px 0px 0px 895px;
+}
+.Technology2 {
+  position: absolute;
+  text-align:center;
+  width: 365px;
+  font-size: 28px;
+  font-weight: 300;
+  margin: 191px 0px 0px 898px;
+}
+.Armremoves {
+  position: absolute;
+  text-align:center;
+  width: 365px;
+  margin: 343px 0px 0px 890px;
+}
+.xiatu {
+  position: absolute;
+  left: 100px;
+  top: 1800px;
+  width: 1580px;
+}
+.Drive {
+  color: inherit;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 42px;
+  margin: 0 0 64px;
+  text-align: center;
+  left: 400px;
+}
+.shiping {
+  position: absolute;
+  left: 200px;
+  width: 1080px;
+}
+.shangyejie {
+  
 }
