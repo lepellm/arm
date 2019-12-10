@@ -232,7 +232,7 @@ body{
   position: absolute;
   top: 700px;
   width: 2000px;
-  height:10000px;
+  height:2518px;
   background-color: #333e48;
 }
 .shangyejie {
@@ -278,6 +278,36 @@ body{
   position: absolute;
   top: 3400px;
   left: 300px;
+}
+.xiada5g p {
+  position: relative;
+  top: 17px;
+  left: 75px;
+}
+.xiadaartificial-intelligence p{
+  position: relative;
+  top: 17px;
+  left: 5px;
+}
+.xiadaautomotive p {
+  position: relative;
+  top: 17px;
+  left: 40px;
+}
+.xiadainfrastructure p {
+  position: relative;
+  top: 17px;
+  left: 38px;
+}
+.xiadasmart-cities p {
+  position: relative;
+  top: 17px;
+  left: 40px;
+}
+.xiadawearables p {
+  position: relative;
+  top: 17px;
+  left: 50px;
 }
 .MoreSolutions {
   position: relative;
@@ -377,36 +407,158 @@ body{
 .xiadaartificial-intelligence {
   position: relative;
   top: 74px;
+  left: 164.5px;
   background-color: #007ea5;
   width: 164px;
   height: 65px;
 }
 .xiadaautomotive {
   position: relative;
-  top: 74px;
-  left: 164.5px;
+  top: -6.5px;
+  left: 329.5px;
   background-color: #007ea5;
   width: 164px;
   height: 65px;
 }
 .xiadainfrastructure {
   position: relative;
-  top: 155px;
+  top: -88px;
+  left: 494px;
   background-color: #007ea5;
   width: 164px;
   height: 65px;
 }
 .xiadasmart-cities {
   position: relative;
-  top: 155px;
+  top: -169px;
+  left: 659px;
   background-color: #007ea5;
   width: 164px;
   height: 65px;
 }
 .xiadawearables {
   position: relative;
-  top: 155px;
+  top: -250px;
+  left: 824px;
   background-color: #007ea5;
   width: 164px;
   height: 65px;
+}
+.achalianjie {
+  text-decoration: none;
+  color: #ffffff;
+}
+.zhongjian1 {
+  background-color: #ffffff;
+  width: 3000px;
+  height: 600px;
+  top: 3583px;
+  position: relative;
+  left: 100px;
+}
+.zhongjiantu {
+  position: relative;
+  left: 928px;
+}
+.zhongzi {
+  position: absolute;
+  left: 150px;
+  width: 800px;
+}
+.zhong1 {
+  position: absolute;
+  color: inherit;
+  width: 600px;
+  top: 60px;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.25;
+  margin: 0 0 60px;
+}
+.zhong2 {
+  top: 230px;
+  position: absolute;
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 26px;
+  margin: 0 0 15px;
+  width: 800px;
+}
+.zhong3 {
+  top: 350px;
+  position: absolute;
+  margin-bottom: 50px;
+}
+.zhongjian1 .zhongzi a {
+  background-color: #ffc700;
+  text-decoration: none;
+  color: black;
+  border-color: #ffc700;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 40px;
+  padding: 10px 50px;
+}
+.ertu {
+  position: absolute;
+  top: 540px;
+  left: -150px;
+  width: 928px;
+}
+.shangbiaoti {
+  top: 630px;
+  position: absolute;
+  color: #ffffff;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.25;
+  margin: 0 0 10px;
+}
+.biaoti1 {
+  position: relative;
+  color: #ffffff;
+  padding-top: 530px;
+}
+.zhang2 {
+  color: #ffffff;
+  padding-top: 350px;
+}
+
+.santu {
+  position: absolute;
+  top: 1219px;
+}
+.xiabiaoti {
+  position: relative;
+  top: 420px;
+}
+.sanxiazi {
+  position: relative;
+  top: 460px;
+}
+.sanshanglianjie {
+  position: absolute;
+}
+
+.zuixiabiejin {
+  color: #ffffff;
+  text-align: center;
+  background-color: #46535f;
+  width: 1600px;
+  height: 660px;
+  position: absolute;
+  top: 5618px;
+}
+.partners {
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 50;
+  margin-top: 80px;
+}
+.anecosystem {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  font-size: 48px;
+  font-weight: bold;
 }
